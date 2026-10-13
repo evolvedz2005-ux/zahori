@@ -1,0 +1,20 @@
+{
+  "item.zahori.vara_zahori": "Vara de Zahori",
+  "screen.zahori.prospect": "Vara de Zahori",
+  "screen.zahori.hint": "Shift + Click der. = repetir",
+  "zahori.ore.carbon": "Carbon",
+  "zahori.ore.cobre": "Cobre",
+  "zahori.ore.hierro": "Hierro",
+  "zahori.ore.oro": "Oro",
+  "zahori.ore.lapis": "Lapislazuli",
+  "zahori.ore.redstone": "Piedra roja",
+  "zahori.ore.diamante": "Diamante",
+  "zahori.ore.esmeralda": "Esmeralda",
+  "zahori.ore.cuarzo": "Cuarzo del Nether",
+  "zahori.ore.netherita": "Escombros ancestrales",
+  "zahori.ore.other_dimension": "%s (otra dimension)",
+  "msg.zahori.found": "%s en [%s, %s, %s] (a %s bloques)",
+  "msg.zahori.not_found": "Sin %s en %s bloques",
+  "msg.zahori.wrong_dimension": "%s no existe en esta dimension",
+  "msg.zahori.arrived": "Llegaste a %s"
+}

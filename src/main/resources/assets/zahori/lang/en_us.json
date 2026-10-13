@@ -1,0 +1,20 @@
+{
+  "item.zahori.vara_zahori": "Dowsing Rod",
+  "screen.zahori.prospect": "Dowsing Rod",
+  "screen.zahori.hint": "Shift + Right-click = repeat",
+  "zahori.ore.carbon": "Coal",
+  "zahori.ore.cobre": "Copper",
+  "zahori.ore.hierro": "Iron",
+  "zahori.ore.oro": "Gold",
+  "zahori.ore.lapis": "Lapis Lazuli",
+  "zahori.ore.redstone": "Redstone",
+  "zahori.ore.diamante": "Diamond",
+  "zahori.ore.esmeralda": "Emerald",
+  "zahori.ore.cuarzo": "Nether Quartz",
+  "zahori.ore.netherita": "Ancient Debris",
+  "zahori.ore.other_dimension": "%s (other dimension)",
+  "msg.zahori.found": "%s at [%s, %s, %s] (%s blocks)",
+  "msg.zahori.not_found": "No %s within %s blocks",
+  "msg.zahori.wrong_dimension": "%s cannot be found in this dimension",
+  "msg.zahori.arrived": "Reached %s"
+}
