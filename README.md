@@ -70,4 +70,4 @@ Español (`es_es`) e ingles (`en_us`).
 
 ---
 
-Hecho 100% con IA por **nyxen**, como prueba del desarrollo de mods con IA para Minecraft.
+Hecho 100% con IA por **Nyxen**, como prueba del desarrollo de mods con IA para Minecraft.
